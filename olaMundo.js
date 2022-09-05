@@ -1,2 +1,2 @@
-console.log("Olá, Mundo");
-console.log("Isso é tudo pessoal!")
+console.log("Este é meu primeiro repositório para o GitHub. Ele por si só não faz muita coisa além de mostrar essa mensagem (Aliás, ele não faz nada além disso), mas pretendo torná-lo útil em breve!");
+console.log(":-)")
